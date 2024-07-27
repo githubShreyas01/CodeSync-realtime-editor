@@ -6,6 +6,7 @@ Some key features include:
 3. Syntax Highlighting
 4. Performance
 5. Accessibility
+6. Chat Support
 
 Demo
 https://codesync-realtime-code-editor-c9d0edb648f5.herokuapp.com/
