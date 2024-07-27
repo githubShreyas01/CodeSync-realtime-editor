@@ -1,4 +1,4 @@
-# CodeQuix-realtime-editor
+# CodeSync-realtime-editor
 CodeQuix is realtime code editor which is particularly useful for collaborative programming, pair programming, or teaching scenarios where multiple users need to work on the same code simultaneously. 
 Some key features include:  
 1. Live Collaboration
